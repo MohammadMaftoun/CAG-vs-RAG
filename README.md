@@ -1,0 +1,2 @@
+# Context-Aware-Generation-CAG-vs-Retrieval-Augmented-Generation-RAG-
+This repository explores Context-Aware Generation (CAG) as a next-generation alternative or complement to Retrieval-Augmented Generation (RAG). Both are powerful paradigms designed to improve the factual accuracy, relevance, and adaptability of language models—yet they take fundamentally different approaches to knowledge injection.
