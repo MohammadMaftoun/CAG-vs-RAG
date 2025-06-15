@@ -12,7 +12,7 @@ Retrieval-Augmented Generation (RAG) combines pretrained language models with an
 
     A retriever fetches relevant documents from a large corpus (e.g., Wikipedia).
 
-    The generator (like BART or T5) uses those documents as input to generate an answer.
+    The generator (such as BART or T5) uses those documents as input to generate an answer.
 
 RAG enhances factual grounding but can be limited by:
 
