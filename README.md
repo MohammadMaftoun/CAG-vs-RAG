@@ -14,7 +14,7 @@ Retrieval-Augmented Generation (RAG) combines pretrained language models with an
 
     The generator (such as BART or T5) uses those documents as input to generate an answer.
 
-RAG enhances factual grounding but can be limited by:
+RAG improves factual grounding but can be limited by:
 
     Retrieval latency
 
